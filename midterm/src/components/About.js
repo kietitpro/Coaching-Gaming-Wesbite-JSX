@@ -3,30 +3,11 @@ import React from "react";
 const About = () => {
   return (
     <div className="container">
-      <h3 className="center-align">About</h3>
+      <h3 className="center-align">About Us</h3>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui possimus,
-        illum eius quidem nam hic quas officiis dolore alias eos quisquam ullam
-        minus tempore, nihil soluta quam, nobis velit facere! Quia culpa neque
-        ullam sequi quae delectus, pariatur dicta, excepturi vel commodi, est
-        laudantium assumenda! Officia consequuntur, maiores eveniet inventore
-        tempora quos nihil dolorem animi quisquam voluptatibus, tenetur ratione
-        perferendis quibusdam laboriosam rerum minus aliquam reprehenderit
-        perspiciatis quasi, libero cupiditate amet. Deserunt laborum quod nisi
-        quisquam, ea eum repudiandae labore facere ratione. Asperiores eius,
-        similique delectus amet tempore voluptatum labore reprehenderit
-        molestias veritatis reiciendis, eaque quod quasi quam porro aperiam.
-        Quam similique beatae voluptatibus maiores ea? Molestias laudantium
-        labore facilis repellat. Similique quasi rem optio numquam mollitia,
-        earum corrupti. Maiores inventore veniam tenetur harum excepturi
-        ratione, quam id quos nemo corrupti enim modi cupiditate vero
-        consequuntur sed velit dolorum nam? Quidem cumque est natus accusantium,
-        inventore quas assumenda laborum unde doloremque? Ab repellat
-        consectetur nobis, deserunt quidem molestiae adipisci laboriosam tempore
-        quia asperiores, unde esse. Numquam nam sequi ipsum nostrum facere, vero
-        et nisi distinctio recusandae temporibus quos consequuntur pariatur
-        expedita voluptas nemo velit ab porro earum ea quasi totam a. Quos
-        libero commodi saepe mollitia reiciendis consequuntur, voluptatum ipsum.
+        The player controls a single character from an overhead perspective and explores large outdoor areas and caves or dungeons, battling monsters and fulfilling quests from non-player characters (NPCs) to gain experience points and equipment. The game borrows heavily from the Diablo series, particularly Diablo II. All areas aside from the central encampments are randomly generated for increased re-playability. While all players on a single server can freely mingle in encampments, gameplay outside of encampments is highly instanced, providing every player or party with an isolated map to freely explore.
+
+        Players can initially choose from six available classes to play as (Duelist, Marauder, Ranger, Shadow, Templar and Witch). Each of these classes are aligned with one or two of the three core attributes: Strength, Dexterity, or Intelligence. The final class, the Scion, can be unlocked by freeing her near the end of Act 3, and is aligned with all three attributes.[6] The different classes are not restricted from investing into skills not aligned with their core attributes, but will have easier access to skills that are aligned with their core attributes.[13] Items are randomly generated from a wide variety of basic types and endowed with special properties and gem sockets. They come in different rarities with increasingly powerful properties. This makes a large part of gameplay dedicated to finding well-balanced and synergistic equipment. Skill gems can be placed in gem sockets of armor, weapons and some types of rings,[8][14] giving them an active skill. As the character advances and levels up, the equipped skill gems also gain experience, allowing the skills themselves to level up and increase in potency.
       </p>
     </div>
   );
