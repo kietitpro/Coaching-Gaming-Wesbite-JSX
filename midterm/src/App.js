@@ -15,6 +15,15 @@ function App() {
       <Route exact path="/" component={Home}/>
       <Route path="/About" component={About}/>
     </div>
+    <footer class="page-footer">
+          <div class="footer-copyright">
+            <div class="container">
+              <center>
+                © 2020 GameUp
+              </center>
+            </div>
+          </div>
+        </footer>
     </BrowserRouter>
   );
 }
