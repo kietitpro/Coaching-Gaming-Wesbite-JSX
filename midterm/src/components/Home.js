@@ -70,7 +70,7 @@ const Home = () => {
       <h3>Reviews</h3>
       <div>
         <h4>Jason</h4>
-        <h5>⭐⭐⭐⭐ ✰</h5>
+        <h5>⭐⭐⭐⭐</h5>
 
         <p>
           The experience was great. It was pretty easy to set up an account for
@@ -89,7 +89,7 @@ const Home = () => {
           times to be had. We played Overwatch till closing time. :)
         </p>
         <h4>Plato</h4>
-        <h5>⭐⭐⭐ ✰ ✰</h5>
+        <h5>⭐⭐⭐</h5>
         <p>
           So much fun! I’ve never been to a place like this before and visited
           on a whim. Mr.Tom the owner is so awesome I would recommend his
