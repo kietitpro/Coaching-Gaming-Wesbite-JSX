@@ -6,6 +6,7 @@ import About from "./components/About";
 import NavBar from "./components/NavBar";
 import Contact from "./components/Contact";
 import Service from "./components/Service";
+import "./css/styles.css"
 
 function App() {
   return (
