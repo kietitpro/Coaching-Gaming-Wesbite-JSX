@@ -3,6 +3,7 @@ import shroud from "../images/shroud.jpg";
 import ninja from "../images/ninja.JPG";
 import mouse from "../images/gamingMouse.png";
 import keyboard from "../images/keyboard.png";
+import "../css/syles.css"
 
 const Home = () => {
   return (
