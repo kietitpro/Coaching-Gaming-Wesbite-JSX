@@ -9,10 +9,7 @@ const Home = () => {
     <div className="container">
       <h1 className="center-align">Home</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt,
-        repellat ipsa. Natus dignissimos nihil nam velit a laboriosam commodi
-        officia eligendi iure necessitatibus odit quam tenetur reiciendis,
-        libero, voluptatum magnam.
+        GameUp is a service that we want to provide for players that seem to stuck in their rank. We help people learn and understand the game better so they can reach to new heights.
       </p>
       <div class="row">
         <div className="col m6">
@@ -22,9 +19,7 @@ const Home = () => {
             </div>
             <div class="card-content">
               <p>
-                I am a very simple card. I am good at containing small bits of
-                information. I am convenient because I require little markup to
-                use effectively.
+              Michael "shroud" Grzesiek (born June 2, 1994) is a retired Canadian Counter-Strike: Global Offensive player of Polish descent. He is from Toronto, Ontario, but has since relocated to Orange County, California, in the United States. He is currently a Full-Time streamer on Mixer.
               </p>
             </div>
           </div>
@@ -36,9 +31,7 @@ const Home = () => {
             </div>
             <div class="card-content">
               <p>
-                I am a very simple card. I am good at containing small bits of
-                information. I am convenient because I require little markup to
-                use effectively.
+              American Mixer streamer and professional eSports player Tyler Blevins, more commonly known by his online alias "Ninja", was born in Grayslake, Illinois, to Chuck and Cynthia Blevins. He starred in the A Gamer's Life (2016) as himself. It was his father, Chuck Blevins who introduced him to video games.
               </p>
             </div>
           </div>
