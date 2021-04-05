@@ -4,7 +4,7 @@ import logo from "../images/logo.png";
 
 const NavBar = () => {
   return (
-    <nav className="nav-wrapper lightred darken-1">
+    <nav className="nav-wrapper red darken-3">
       <div className="container">
         <ul>
           <li>
@@ -13,7 +13,7 @@ const NavBar = () => {
               className="brand-logo"
               activeStyle={{background: "transparent"}}
             >
-              <h4>Game Up</h4>
+              <h4>GameUp</h4>
               <img src={logo} alt="logo" width="65" height="65" />
             </NavLink>
           </li>
@@ -24,13 +24,13 @@ const NavBar = () => {
             <NavLink to="/">Home</NavLink>
           </li>
           <li>
+            <NavLink to="/service">Service</NavLink>
+          </li>
+          <li>
             <NavLink to="/about">About</NavLink>
           </li>
           <li>
             <NavLink to="/contact">Contact Us</NavLink>
-          </li>
-          <li>
-            <NavLink to="/service">Service</NavLink>
           </li>
         </ul>
       </div>

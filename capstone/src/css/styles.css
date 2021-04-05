@@ -1,0 +1,66 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #282828;
+  color: white;
+}
+
+#shroudService {
+  font-size: 20px;
+}
+
+#textColor {
+  color: black;
+}
+
+input {
+  color: white;
+}
+
+textarea {
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  color: white;
+  height: 200px;
+}
+textarea {
+  padding: 10px;
+  line-height: 1.5;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px #999;
+}
+
+#price {
+  font-size: 17px;
+  color: black;
+}
+
+#products {
+  text-align: center;
+}
+
+.checked {
+  color: orange;
+}
+
+#review {
+  background-color: skyblue;
+}
+
+#service {
+  background-color: tomato;
+}
+
+#ninja {
+  color: black;
+}
+
+#shroud {
+  color: black;
+}
+
+main {
+  flex: 1 0 auto;
+}
